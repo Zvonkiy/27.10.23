@@ -1,0 +1,8 @@
+//double q , w;
+//q = 1 + Math.Sin(0.1);
+//for (double i = 0.2; i <= 10; i += 0.1 )
+//{
+//    w = 1 + Math.Sin(i);
+//    q = q * w;
+//}
+//Console.WriteLine($"Выражение равно ={q}");

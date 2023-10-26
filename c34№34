@@ -1,0 +1,13 @@
+//Console.WriteLine("Введите очередное число");
+//double n = Convert.ToDouble(Console.ReadLine());
+//double q, w, e;
+//q = 0;
+//w = 0;
+//e = 1;
+//for (int i = 1; i <= n; i++)
+//  {
+//   q = q + Math.Cos(i);
+//   w = w + Math.Sin(i);
+//   e = e * (q / w);
+//  }
+//Console.WriteLine($"Выражение равно ={e}");

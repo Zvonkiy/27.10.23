@@ -1,0 +1,20 @@
+//Console.WriteLine("введите одну из величин первого прямоугольного паралепипеда");
+//double q = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("введите одну из величин первого прямоугольного паралепипеда");
+//double w = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("введите одну из величин первого прямоугольного паралепипеда");
+//double e = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("введите одну из величин второго прямоугольного паралепипеда");
+//double qq = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("введите одну из величин второго прямоугольного паралепипеда");
+//double qw = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("введите одну из величин второго прямоугольного паралепипеда");
+//double qe = Convert.ToDouble(Console.ReadLine());
+//double q = 0;
+//double y = 0;
+//q += q * w * e;
+//y += qq * qw * qe;
+//if (q > y)
+//    Console.WriteLine("первый паралепипед больше");
+//else
+//    Console.WriteLine("второй паралепипед больше");
